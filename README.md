@@ -1,6 +1,6 @@
 <b>AWS Batch Compute Environment Terraform </b>
 
-Creates a AWS Batch compute environment. Compute environments contain the Amazon ECS container instances that are used to run containerized batch jobs.
+Creates a AWS Batch compute environment on demand EC2 Instance. Compute environments contain the Amazon ECS container instances that are used to run containerized batch jobs.
 
 <a href="https://registry.terraform.io/providers/hashicorp/aws/3.2.0">Terraform documentation</a>
 
